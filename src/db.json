@@ -7,34 +7,34 @@
       "windDirection": "South street",
       "status": "okay",
       "activePower": "10%",
-      "percantage": "20%"
+      "percentage": "20%"
     },
     {
       "id": 2,
-      "siteName": "Satheesh",
+      "siteName": "Satheesho",
       "windSpeed": "Sat@mail.com",
       "windDirection": "South street",
       "status": "okay",
       "activePower": "10%",
-      "percantage": "20%"
+      "percentage": "20%"
     },
     {
       "id": 3,
-      "siteName": "Satheesh",
+      "siteName": "Satheesh3",
       "windSpeed": "Sat@mail.com",
       "windDirection": "South street",
       "status": "okay",
       "activePower": "10%",
-      "percantage": "20%"
+      "percentage": "20%"
     },
     {
       "id": 4,
-      "siteName": "Satheesh",
+      "siteName": "Sathees123h",
       "windSpeed": "Sat@mail.com",
       "windDirection": "South street",
       "status": "okay",
       "activePower": "10%",
-      "percantage": "20%"
+      "percentage": "20%"
     }
   ]
 }
