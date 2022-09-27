@@ -2,22 +2,14 @@
   "posts": [
     {
       "id": 1,
-      "siteName": "Satheesh",
-      "windSpeed": "Sat@mail.com",
-      "windDirection": "South street",
-      "status": "okay",
-      "activePower": 20,
-      "percentage": "20%"
-    },
-    {
-      "id": 2,
-      "siteName": "Satheesho",
+      "siteName": "Satheesh23o",
       "windSpeed": "Sat@mail.com",
       "windDirection": "South street",
       "status": "okay",
       "activePower": 10,
       "percentage": "20%"
     },
+
     {
       "id": 3,
       "siteName": "Satheesh3",
