@@ -6,7 +6,7 @@
       "windSpeed": "Sat@mail.com",
       "windDirection": "South street",
       "status": "okay",
-      "activePower": "10%",
+      "activePower": 20,
       "percentage": "20%"
     },
     {
@@ -15,7 +15,7 @@
       "windSpeed": "Sat@mail.com",
       "windDirection": "South street",
       "status": "okay",
-      "activePower": "10%",
+      "activePower": 10,
       "percentage": "20%"
     },
     {
@@ -24,7 +24,7 @@
       "windSpeed": "Sat@mail.com",
       "windDirection": "South street",
       "status": "okay",
-      "activePower": "10%",
+      "activePower": 30,
       "percentage": "20%"
     },
     {
@@ -33,7 +33,7 @@
       "windSpeed": "Sat@mail.com",
       "windDirection": "South street",
       "status": "okay",
-      "activePower": "10%",
+      "activePower": 10,
       "percentage": "20%"
     }
   ]

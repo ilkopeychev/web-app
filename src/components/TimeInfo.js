@@ -1,11 +1,12 @@
 import React from "react";
+import ProgressBar from "@ramonak/react-progress-bar";
 
 function TimeInfo({ siteName, windSpeed, activePower }) {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
       <div>{siteName}</div>
       <div>{windSpeed}</div>
-      <div>{activePower}</div>
+      <ProgressBar completed={activePower} />
     </div>
   );
 }

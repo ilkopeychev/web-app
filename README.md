@@ -4,7 +4,7 @@
 
 In the project directory, you can run:
 
-Before start please run the local json-server which simulates a real one ---> json-server --watch db.json --port 3001
+Before start please run the local json-server which simulates a real one ---> npm server
 
 ### `npm start`
 
