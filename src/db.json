@@ -2,37 +2,39 @@
   "posts": [
     {
       "id": 1,
-      "name": "Satheesh",
-      "email": "Sat@mail.com",
-      "adderss": "South street"
+      "siteName": "Satheesh",
+      "windSpeed": "Sat@mail.com",
+      "windDirection": "South street",
+      "status": "okay",
+      "activePower": "10%",
+      "percantage": "20%"
     },
     {
       "id": 2,
-      "name": "John",
-      "email": "john@mail.com",
-      "adderss": "North street"
+      "siteName": "Satheesh",
+      "windSpeed": "Sat@mail.com",
+      "windDirection": "South street",
+      "status": "okay",
+      "activePower": "10%",
+      "percantage": "20%"
     },
     {
       "id": 3,
-      "name": "Robert",
-      "email": "robert@mail.com",
-      "adderss": "East street"
+      "siteName": "Satheesh",
+      "windSpeed": "Sat@mail.com",
+      "windDirection": "South street",
+      "status": "okay",
+      "activePower": "10%",
+      "percantage": "20%"
     },
     {
       "id": 4,
-      "name": "Mani",
-      "email": "mani@mail.com",
-      "adderss": "West street"
+      "siteName": "Satheesh",
+      "windSpeed": "Sat@mail.com",
+      "windDirection": "South street",
+      "status": "okay",
+      "activePower": "10%",
+      "percantage": "20%"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

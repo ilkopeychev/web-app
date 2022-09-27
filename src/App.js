@@ -7,7 +7,8 @@ function App() {
   const [productsTest, setProducts] = useState([]);
 
   useEffect(() => {
-    API.get(`https://jsonplaceholder.typicode.com/posts`).then((res) => {
+    API.get(`http://localhost:3001/posts`).then((res) => {
+      console.log("RESS", res);
       const posts = res.data;
       console.log(posts);
       setProducts(posts);
@@ -45,10 +46,13 @@ function App() {
 
         <tbody>
           {productsTest?.map((post) => (
-            <tr>
+            <tr key={post.id}>
               <td>{post.id}</td>
-              <td>{post.title}</td>
-              <td>{post.body}</td>
+              <td>{post.siteName}</td>
+              <td>{post.windSpeed}</td>
+              <td>{post.windDirection}</td>
+              <td>{post.status}</td>
+              <td>{post.activePower}</td>
               <td>
                 <button
                   className="btn btn-danger"
