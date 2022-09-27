@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react";
+import Footer from './components/Footer'
+import Header from './components/Header'
 import API from "./api";
 
 import TimeInfo from "./components/TimeInfo";
@@ -27,6 +29,7 @@ function App() {
 
   return (
     <div>
+      <Header/>
       <h1> Example of React Axios Delete Request </h1>
 
       <table className="table table-bordered">
@@ -54,6 +57,7 @@ function App() {
           ))}
         </tbody>
       </table>
+      <Footer/>
     </div>
   );
 }
