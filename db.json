@@ -3,17 +3,26 @@
     {
       "id": 1,
       "siteName": "Satheesh23o",
-      "windSpeed": "Sat@mail.com",
+      "windSpeed": "12",
       "windDirection": "South street",
       "status": "okay",
       "activePower": 10,
+      "percentage": "20%"
+    },
+    {
+      "id": 2,
+      "siteName": "Satheesh23o1",
+      "windSpeed": "15",
+      "windDirection": "South street",
+      "status": "okay",
+      "activePower": 25,
       "percentage": "20%"
     },
 
     {
       "id": 3,
       "siteName": "Satheesh3",
-      "windSpeed": "Sat@mail.com",
+      "windSpeed": "6.2",
       "windDirection": "South street",
       "status": "okay",
       "activePower": 30,
@@ -22,7 +31,7 @@
     {
       "id": 4,
       "siteName": "Sathees123h",
-      "windSpeed": "Sat@mail.com",
+      "windSpeed": "13.1",
       "windDirection": "South street",
       "status": "okay",
       "activePower": 10,
